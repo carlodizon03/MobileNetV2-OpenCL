@@ -133,6 +133,7 @@
     <ClInclude Include="lib\clMobileNetV2.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="mobilenetv2.cl" />
     <None Include="weight.bin" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

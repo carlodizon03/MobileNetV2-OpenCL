@@ -31,5 +31,8 @@
     <None Include="weight.bin">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="mobilenetv2.cl">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
